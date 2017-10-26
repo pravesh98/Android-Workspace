@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recycler</string>
+
+    <string-array name="pet_name">
+        <item>cat</item>
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Elephant</item>
+        <item>Parot</item>
+        <item>Snake</item>
+    </string-array>
+    <string-array name="description">
+        <item>Cat is cute</item>
+        <item>Cow is milch animal</item>
+        <item>Dog dog</item>
+        <item>Elephant elephant</item>
+        <item>Parot parot</item>
+        <item>Snake snake snake snake</item>
+    </string-array>
+</resources>
